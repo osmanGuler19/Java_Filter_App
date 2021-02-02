@@ -1,0 +1,1 @@
+before you start copy an image with name oof "image" in this folder. This app will make your photos more cold and blueish style
